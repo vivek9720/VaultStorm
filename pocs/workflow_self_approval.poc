@@ -1,4 +1,0 @@
-type=WORKFLOW
-step=approve
-actor=requester
-quorum=1

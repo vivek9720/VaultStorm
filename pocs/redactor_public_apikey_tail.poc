@@ -1,4 +1,0 @@
-type=REDACTOR
-pattern=apikey
-action=keep-last-32
-sink=public

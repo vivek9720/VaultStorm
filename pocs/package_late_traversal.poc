@@ -1,4 +1,0 @@
-type=PACKAGE
-manifest=sealed
-entry=../secret
-normalize=late

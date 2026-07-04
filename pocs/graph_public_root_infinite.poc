@@ -1,5 +1,0 @@
-type=GRAPH
-edge=trusts
-from=public
-to=root
-ttl=inf

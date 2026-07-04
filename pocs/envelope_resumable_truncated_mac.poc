@@ -1,4 +1,0 @@
-type=ENVELOPE
-chunks=2
-mac=truncated
-resume=true
