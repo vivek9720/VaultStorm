@@ -1,0 +1,4 @@
+type=ENVELOPE
+cipher=aes-gcm
+wrap=kms
+aad=tenant:blue

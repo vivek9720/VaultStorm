@@ -1,0 +1,4 @@
+type=ATTEST
+quote=valid
+pcr0=debug
+policy=prod

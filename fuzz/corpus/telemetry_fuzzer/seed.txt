@@ -1,0 +1,4 @@
+type=TELEMETRY
+event=login
+geo=local
+risk=score

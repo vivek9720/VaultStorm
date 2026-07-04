@@ -1,0 +1,4 @@
+type=TOKEN
+alg=RS256
+kid=service
+aud=metrics

@@ -1,0 +1,4 @@
+type=TELEMETRY
+event=login
+geo=impossible
+risk=suppress

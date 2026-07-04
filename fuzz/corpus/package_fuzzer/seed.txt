@@ -1,0 +1,4 @@
+type=PACKAGE
+manifest=open
+entry=logs/audit.json
+normalize=early

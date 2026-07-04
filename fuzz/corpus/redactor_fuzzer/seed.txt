@@ -1,0 +1,4 @@
+type=REDACTOR
+pattern=email
+action=mask
+sink=internal

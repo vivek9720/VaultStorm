@@ -1,0 +1,4 @@
+type=POLICY
+mode=shadow
+decision=allow
+breakglass=true

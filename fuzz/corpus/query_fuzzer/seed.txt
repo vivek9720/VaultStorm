@@ -1,0 +1,4 @@
+type=QUERY
+select=alerts
+where=tenant=blue
+limit=100

@@ -1,0 +1,5 @@
+type=GRAPH
+edge=trusts
+from=svc-a
+to=svc-b
+ttl=60

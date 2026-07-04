@@ -1,0 +1,18 @@
+language: c++
+primary_contact: security@example.invalid
+fuzzing_engines:
+  - libfuzzer
+sanitizers:
+  - address
+  - undefined
+fuzz_targets:
+  - policy_fuzzer
+  - token_fuzzer
+  - envelope_fuzzer
+  - redactor_fuzzer
+  - graph_fuzzer
+  - query_fuzzer
+  - telemetry_fuzzer
+  - attestation_fuzzer
+  - package_fuzzer
+  - workflow_fuzzer

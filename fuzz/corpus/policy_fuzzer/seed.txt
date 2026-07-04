@@ -1,0 +1,4 @@
+type=POLICY
+role=reader
+scope=logs
+ttl=30

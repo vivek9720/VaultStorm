@@ -1,0 +1,4 @@
+type=TOKEN
+alg=none
+kid=vault-root
+chain=delegated
